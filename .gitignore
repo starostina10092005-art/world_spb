@@ -3,3 +3,4 @@
 # secret/
 # /secret.txt
 !secret.txt
+!list.txt
