@@ -1,0 +1,5 @@
+*.txt
+# secret.txt
+# secret/
+# /secret.txt
+!secret.txt
